@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240414565074",
+    "project_id": "chatapp-82481",
+    "storage_bucket": "chatapp-82481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240414565074:android:97a1a7df6648356997030b",
+        "android_client_info": {
+          "package_name": "com.example.qmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240414565074-f6ok3dda6pdgsr618ekifvsuvhatiqii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjDPBFvGZstgPYHHK1Gwq7VD6ebHJtG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240414565074-f6ok3dda6pdgsr618ekifvsuvhatiqii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
